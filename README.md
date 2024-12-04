@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ------------
 ![Img](https://github.com/SakNoelCode/Imagenes_Proyectos/blob/master/sistemaAbarrotePanel.png)
 
@@ -68,3 +69,6 @@ php artisan serve
 
 ------------
 ![Img](https://github.com/SakNoelCode/Imagenes_Proyectos/blob/master/sistemaAbarrotecategory.png)
+=======
+# Ingenieria_web_final
+>>>>>>> d8aa28c56bbb08374e61d4f5b0828acb775e8fde
